@@ -31,6 +31,7 @@
     "svelte-loader": "^2.13.6"
   },
   "dependencies": {
+    "@storybook/addon-knobs": "^6.1.5",
     "sirv-cli": "^0.4.4",
     "svelte-preprocess": "^3.1.2",
     "typescript": "^3.7.2"
