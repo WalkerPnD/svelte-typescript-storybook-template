@@ -6,6 +6,12 @@ please read package.json for the commands.
 
 *Psst — looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*
 
+# Get started
+1. clone this repo
+2. run `npm i`
+3. run `npm run storybook`
+4. goto `http://localhost:6006`
+
 ---
 
 # svelte app
