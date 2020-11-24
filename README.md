@@ -9,7 +9,7 @@ please read package.json for the commands.
 # Get started
 1. clone this repo
 2. run `npm i`
-3. run `npm run story book`
+3. run `npm run storybook`
 4. goto `http://localhost:6006`
 
 ---
